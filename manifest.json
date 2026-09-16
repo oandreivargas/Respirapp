@@ -2,7 +2,7 @@
   "name": "Respira 4×4",
   "short_name": "Respira",
   "description": "Exercício guiado de respiração para regulação do sistema nervoso",
-  "start_url": "/index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0a0f1a",
